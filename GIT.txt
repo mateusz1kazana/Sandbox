@@ -3,3 +3,5 @@ Mateusz Kazana
 
 Zajêcia z GIT
 Marcin Sienicki
+
+tralallal
